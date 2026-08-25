@@ -18,7 +18,7 @@ public class Ejercicio2guia3MED {
             System.out.print(datos[i] + (i > 0 ? ", " : ""));
         }
         System.out.println("]");
-        // TODO code application logic here
+        
     }
     
 }
