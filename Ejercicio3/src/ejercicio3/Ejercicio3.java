@@ -19,6 +19,7 @@ class Empleado {
         this.nombre = nombre;
         this.cargo = cargo;
         this.sueldo = sueldo;
+        
     }
 }
 
